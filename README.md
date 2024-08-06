@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/trustyourfeetcom/overhang-backend-auth">
+  <a href="https://github.com/trustyourfeetcom/overhang-backend-config">
     <img src="https://github.com/trustyourfeetcom/overhang-branding-assets/blob/main/logos/logo.png?raw=true" alt="Serenaid Logo" width="120" height="120">
   </a>
 
@@ -77,5 +77,3 @@ Sam Sui - ssui@vols.utk.edu
 <!-- MARKDOWN LINKS & IMAGES -->
 [Spring-Boot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white
 [Spring-Boot-url]: https://spring.io/projects/spring-boot
-[Postgres]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
-[Postgres-url]: https://www.postgresql.org/
