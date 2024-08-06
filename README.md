@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/trustyourfeetcom/overhang-backend-config">
-    <img src="https://github.com/trustyourfeetcom/overhang-branding-assets/blob/main/logos/logo.png?raw=true" alt="Serenaid Logo" width="120" height="120">
+    <img src="https://github.com/trustyourfeetcom/overhang-branding-assets/blob/main/logos/logo.png?raw=true" alt="Overhang Logo" width="120" height="120">
   </a>
 
 <h3 align="center">Overhang</h3>
@@ -56,7 +56,6 @@
 ### Built With
 
 * [![Spring-Boot][Spring-Boot]][Spring-Boot-url]
-* [![Postgres][Postgres]][Postgres-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
