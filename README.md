@@ -8,7 +8,7 @@
   </a>
 
 <h3 align="center">Overhang</h3>
-<h4 align="center">overhang-backend-auth</h3>
+<h4 align="center">overhang-backend-config</h3>
   <p align="left">
     Overhang's Config service pulls configuration files and settings for various services within the Overhang project. It centralizes environment-specific configurations to streamline deployment and management across development, testing, and production environments.
   <br />
