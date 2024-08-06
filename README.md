@@ -62,7 +62,7 @@
 
 ## Resources
 
-* [Confluence Page](https://overhang.atlassian.net/wiki/spaces/Documentat/pages/13795329/overhang-backend-config)
+* [Confluence Page](https://overhang.atlassian.net/wiki/x/AYDS)
 
 
 <!-- CONTACT -->
