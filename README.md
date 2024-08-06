@@ -74,5 +74,5 @@ Sam Sui - ssui@vols.utk.edu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Spring-Boot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[Spring-Boot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white
 [Spring-Boot-url]: https://spring.io/projects/spring-boot
